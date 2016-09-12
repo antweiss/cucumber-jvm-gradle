@@ -6,7 +6,7 @@ The project is built with [gradle](https://gradle.org/) with the help of [ cucum
 
 Project structure is inspired by this blog [post](https://thomassundberg.wordpress.com/2014/05/29/cucumber-jvm-hello-world/).
 
-There application is composed of a class called CukeBucket which represents a bucket that has maximum capacity of 200 cucumbers.
+The application is composed of a class called CukeBucket which represents a bucket that has maximum capacity of 200 cucumbers.
 If you add 1 cucumber over 200 - the bucket will crack.
 
 run tests with:
